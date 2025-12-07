@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "metadata": { "created_at_utc": "2025-10-22T15:00:00Z", "seed": 123456 },
+  "game": {
+    "state": "Running",
+    "turn": 1,
+    "currentPlayer": "RED",
+    "map": { "width": 7, "height": 7, "tiles": [] },
+    "players": [
+      { "id": "RED", "name": "Piros Birodalom", "resources": 0 },
+      { "id": "BLUE", "name": "Kék Királyság", "resources": 0 }
+    ],
+    "units": [],
+    "redCastle": { "x": 0, "y": 6 },
+    "blueCastle": { "x": 6, "y": 0 }
+  }
+}
